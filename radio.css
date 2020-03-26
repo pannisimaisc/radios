@@ -1,7 +1,7 @@
 html {
     width: 100%;
     height: 100%;  
-    overflow: hidden;
+    /* overflow: hidden; */
     padding: 0;
     margin: 0;
     outline: 0;
@@ -12,7 +12,7 @@ html {
     height: 100%; */
     padding: 0;
     margin: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
     background: #5c258d;
     background: -moz-linear-gradient(-45deg, #5c258d 0%, #4389a2 100%);
     background: -webkit-linear-gradient(-45deg, #5c258d 0%, #4389a2 100%);
@@ -53,7 +53,7 @@ html {
     height: 12.5%;
   }
   .station {
-    position: relative;
+    /* position: relative; */
     width: 100%;
     height: 15%;
     display: -webkit-box;
